@@ -1,0 +1,74 @@
+﻿@model IEnumerable<BlossomCart.Models.Feedback>
+
+@{
+    ViewData["Title"] = "Feedback";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<title>Blossom cart | Feedback</title>
+
+    
+        
+  
+
+
+<div class="container-fluid testimonial mt-5 py-5">
+    <div class="container py-5">
+         
+            <div class="testimonial-header text-center">
+            <h4  style="color:crimson">Our Feedbacks</h4>
+                <h1 class="display-5 mb-5 text-dark">Our Client Saying!</h1>
+            </div>
+        <section class="section-slide">
+            <div class="wrap-slick1">
+                <div class="slick1">
+
+                    @foreach (var item in Model.OrderByDescending(o => o.FId).Take(6))
+                    {
+                        
+                        <div class="item-slick1 bg-dark " style="background-image: url(/Index/images/feedback-1.jpg);">
+                            <div class="container h-full">
+                                <div class="flex-col-c-m h-full p-t-100 p-b-60 respon5">
+                                    <div class="layer-slick1 animated visible-false my-3" data-appear="rollIn" data-delay="0">
+                                        <h4 class="mtext-102 txt-center cl1" style="font-size:20px;">Feedback</h4>
+                                        <span class="ltext-202 txt-center cl2 respon2">
+                                            @Html.DisplayFor(modelItem => item.Feedback1)
+                                        </span>
+                                    </div>
+
+                                    <div class="layer-slick1 animated visible-false my-3" data-appear="lightSpeedIn" data-delay="800">
+                                        
+                                        <h2 class="ltext-104 txt-center cl0 respon1" style="color:crimson">
+                                            @Html.DisplayFor(modelItem => item.CustomerName)
+                                        </h2>
+                                    </div>
+                                    <div class="layer-slick1 animated visible-false" data-appear="rollIn" data-delay="1600">
+                                        <h4 class="mtext-102 txt-center cl1" style=" font-size:20px;">Date</h4>
+
+                                        <span class="ltext-202 txt-center cl2 ">
+                                            @Html.DisplayFor(modelItem => item.Date)
+                                        </span>
+                                    </div>
+
+                                    <div class="layer-slick1 animated visible-false" data-appear="slideInUp" data-delay="2400">
+                                        <a asp-action="Contact" asp-controller="Home" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn2 p-lr-15 w-100 my-5">
+                                           Feedback Now..!
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+             
+            </div>
+        </section>
+           
+        
+    </div>
+</div>
+
+
+
+

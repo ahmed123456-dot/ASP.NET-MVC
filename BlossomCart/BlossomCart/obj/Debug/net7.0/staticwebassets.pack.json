@@ -1,0 +1,2253 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlossomCart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlossomCart.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\.gitattributes",
+      "PackagePath": "staticwebassets\\Admin\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\css\\main.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\css\\util.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\PlayfairDisplay\\OFL.txt",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\PlayfairDisplay\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\fonts\\linearicons-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\linearicons-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Admin.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\Admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Adminlogo.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Adminlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Anniversary-1.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Anniversary-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Anniversary-2.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Anniversary-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Anniversary-3.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Anniversary-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Anniversary-4 (2).png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Anniversary-4 (2).png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Anniversary-5.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Anniversary-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Anniversary-6.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Anniversary-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Eid-1.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Eid-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Eid-2.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Eid-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Eid-3.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Eid-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Eid-4.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Eid-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Eid-5.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Eid-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Eid-6.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Eid-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Mother'sday-1.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Mother'sday-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Mother'sday-2.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Mother'sday-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Mother'sday-3.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Mother'sday-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Mother'sday-4.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Mother'sday-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Mother'sday-5.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Mother'sday-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\Mother'sday-6.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Mother'sday-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\banner-04.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\banner-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\banner-05.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\banner-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\banner-6.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\banner-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\brithday-1.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\brithday-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\brithday-2.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\brithday-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\brithday-3.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\brithday-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\brithday-4.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\brithday-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\brithday-5.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\brithday-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\brithday-6.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\brithday-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\header-photo-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\header-photo-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\header-photo-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\header-photo-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\header-photo-3.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\header-photo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\header-photo-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\header-photo-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\header-photo-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\header-photo-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\logo-01.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\logo-01.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\icons\\pin.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\wedding-1.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\wedding-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\wedding-2.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\wedding-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\wedding-3.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\wedding-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\wedding-4.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\wedding-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\wedding-5.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\wedding-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\images\\wedding-6.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\wedding-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\js\\map-custom.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\map-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\js\\slick-custom.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\slick-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Admin\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\240109010130wedding-1.png",
+      "PackagePath": "staticwebassets\\Images\\240109010130wedding-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\240209020212brithday-1.png",
+      "PackagePath": "staticwebassets\\Images\\240209020212brithday-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\240801110849wedding-6.png",
+      "PackagePath": "staticwebassets\\Images\\240801110849wedding-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\240802120841Mother'sday-3.png",
+      "PackagePath": "staticwebassets\\Images\\240802120841Mother'sday-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\240909020933wedding-2.png",
+      "PackagePath": "staticwebassets\\Images\\240909020933wedding-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\241002011029Anniversary-5.png",
+      "PackagePath": "staticwebassets\\Images\\241002011029Anniversary-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\241109121119wedding-1.png",
+      "PackagePath": "staticwebassets\\Images\\241109121119wedding-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\241202011209Anniversary-1.png",
+      "PackagePath": "staticwebassets\\Images\\241202011209Anniversary-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\241202121210Mother'sday-2.png",
+      "PackagePath": "staticwebassets\\Images\\241202121210Mother'sday-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\241309021344brithday-2.png",
+      "PackagePath": "staticwebassets\\Images\\241309021344brithday-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\241401111447brithday-5.png",
+      "PackagePath": "staticwebassets\\Images\\241401111447brithday-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\241502121507Anniversary-3.png",
+      "PackagePath": "staticwebassets\\Images\\241502121507Anniversary-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\241513111534brithday-1.png",
+      "PackagePath": "staticwebassets\\Images\\241513111534brithday-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\241901061948wedding-5.png",
+      "PackagePath": "staticwebassets\\Images\\241901061948wedding-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\242101112114brithday-6.png",
+      "PackagePath": "staticwebassets\\Images\\242101112114brithday-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\242302012333Mother'sday-1.png",
+      "PackagePath": "staticwebassets\\Images\\242302012333Mother'sday-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\242514102557brithday-4.png",
+      "PackagePath": "staticwebassets\\Images\\242514102557brithday-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\242601112627Eid-1.png",
+      "PackagePath": "staticwebassets\\Images\\242601112627Eid-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\242702122731Anniversary-4 (2).png",
+      "PackagePath": "staticwebassets\\Images\\242702122731Anniversary-4 (2).png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\242709032734brithday-3.png",
+      "PackagePath": "staticwebassets\\Images\\242709032734brithday-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\242809022815wedding-3.png",
+      "PackagePath": "staticwebassets\\Images\\242809022815wedding-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\242901112912Eid-2.png",
+      "PackagePath": "staticwebassets\\Images\\242901112912Eid-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\243009023006brithday-4.png",
+      "PackagePath": "staticwebassets\\Images\\243009023006brithday-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\243202123225Eid-5.png",
+      "PackagePath": "staticwebassets\\Images\\243202123225Eid-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\243301113359Mother'sday-5.png",
+      "PackagePath": "staticwebassets\\Images\\243301113359Mother'sday-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\243602123626Eid-6.png",
+      "PackagePath": "staticwebassets\\Images\\243602123626Eid-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\243701113706Mother'sday-1.png",
+      "PackagePath": "staticwebassets\\Images\\243701113706Mother'sday-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\243815073850brithday-3.png",
+      "PackagePath": "staticwebassets\\Images\\243815073850brithday-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\243902123908Mother'sday-4.png",
+      "PackagePath": "staticwebassets\\Images\\243902123908Mother'sday-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\244102124142Mother'sday-6.png",
+      "PackagePath": "staticwebassets\\Images\\244102124142Mother'sday-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\244201114214Anniversary-1.png",
+      "PackagePath": "staticwebassets\\Images\\244201114214Anniversary-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\244325014301beautiful-decorated-bouquet-roses-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Images\\244325014301beautiful-decorated-bouquet-roses-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\244702124703Mother'sday-6.png",
+      "PackagePath": "staticwebassets\\Images\\244702124703Mother'sday-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\244714104751brithday-4.png",
+      "PackagePath": "staticwebassets\\Images\\244714104751brithday-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\245002125037Anniversary-5.png",
+      "PackagePath": "staticwebassets\\Images\\245002125037Anniversary-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\245201115252Anniversary-2.png",
+      "PackagePath": "staticwebassets\\Images\\245201115252Anniversary-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\245202125240Anniversary-6.png",
+      "PackagePath": "staticwebassets\\Images\\245202125240Anniversary-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\245203125211wedding-2.png",
+      "PackagePath": "staticwebassets\\Images\\245203125211wedding-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\245314105332brithday-4.png",
+      "PackagePath": "staticwebassets\\Images\\245314105332brithday-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\245601115647Eid-3.png",
+      "PackagePath": "staticwebassets\\Images\\245601115647Eid-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\245608115641wedding-1.png",
+      "PackagePath": "staticwebassets\\Images\\245608115641wedding-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\245708115732wedding-1.png",
+      "PackagePath": "staticwebassets\\Images\\245708115732wedding-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\245808115842wedding-1.png",
+      "PackagePath": "staticwebassets\\Images\\245808115842wedding-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Images\\245901115952Eid-4.png",
+      "PackagePath": "staticwebassets\\Images\\245901115952Eid-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\.gitattributes",
+      "PackagePath": "staticwebassets\\Index\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\css\\main.css",
+      "PackagePath": "staticwebassets\\Index\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\css\\util.css",
+      "PackagePath": "staticwebassets\\Index\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\PlayfairDisplay\\OFL.txt",
+      "PackagePath": "staticwebassets\\Index\\fonts\\PlayfairDisplay\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Index\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\Index\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Index\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Index\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Index\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Index\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Index\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\Index\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\Index\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\Index\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\Index\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\Index\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\fonts\\linearicons-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\Index\\fonts\\linearicons-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\about-01.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\about-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\about-02.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\about-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\banner-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\banner-04.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\banner-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\banner-05.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\banner-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\banner-06.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\banner-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\banner-07.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\banner-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\banner-08.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\banner-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\banner-09.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\banner-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\bg-02.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\blog-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\blog-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\blog-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\blog-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\blog-05.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\blog-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\blog-06.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\blog-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\feedback-1.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\feedback-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\gallery-01.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\gallery-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\gallery-02.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\gallery-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\gallery-03.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\gallery-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\gallery-04.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\gallery-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\gallery-05.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\gallery-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\gallery-06.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\gallery-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\gallery-07.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\gallery-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\gallery-08.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\gallery-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\gallery-09.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\gallery-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\header-photo-1.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\header-photo-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\header-photo-2.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\header-photo-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\header-photo-3.png",
+      "PackagePath": "staticwebassets\\Index\\images\\header-photo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\header-photo-4.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\header-photo-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\header-photo-5.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\header-photo-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\logo-01.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\logo-01.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\Index\\images\\icons\\pin.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\item-cart-01.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\item-cart-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\item-cart-02.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\item-cart-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\item-cart-03.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\item-cart-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\item-cart-04.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\item-cart-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\item-cart-05.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\item-cart-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-01.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-02.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-03.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-04.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-05.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-06.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-07.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-08.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-09.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-10.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-11.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-12.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-13.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-14.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-15.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-16.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-detail-01.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-detail-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-detail-02.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-detail-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-detail-03.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-detail-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-min-01.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-min-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-min-02.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-min-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\product-min-03.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\product-min-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\slide-03.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\slide-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\slide-04.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\slide-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\slide-05.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\slide-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\slide-06.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\slide-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\slide-07.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\slide-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\thumb-01.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\thumb-02.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\images\\thumb-03.jpg",
+      "PackagePath": "staticwebassets\\Index\\images\\thumb-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\js\\main.js",
+      "PackagePath": "staticwebassets\\Index\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\js\\map-custom.js",
+      "PackagePath": "staticwebassets\\Index\\js\\map-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\js\\slick-custom.js",
+      "PackagePath": "staticwebassets\\Index\\js\\slick-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\Index\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Index\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\Index\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\Index\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\Index\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\Index\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\Index\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\wwwroot\\Index\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\Index\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlossomCart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlossomCart.props",
+      "PackagePath": "build\\BlossomCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlossomCart.props",
+      "PackagePath": "buildMultiTargeting\\BlossomCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlossomCart.props",
+      "PackagePath": "buildTransitive\\BlossomCart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,129 @@
+﻿@model BlossomCart.Models.Bouquet
+
+
+@{
+    ViewData["Title"] = "Restore";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+<title>Admin-Restore Page</title>
+
+
+<section class="bg-img1 txt-center  p-lr-15 p-tb-92  " style="background-image: url('/Admin/images/Admin.jpg'); margin-top:8%;">
+	<h2 class="ltext-105 cl0 txt-center ">
+		Admin Panel
+	</h2>
+	<ol class="txt-center justify-content-center mb-0 my-3">
+		<a asp-action="TrashProducts" asp-controller="Admin" class=" mtext-102  text-center " style=" font-size:20px;"> Trash Products</a>
+		<a asp-action="Index" asp-controller="Products" class="mtext-102 cl0 text-center" style=" font-size:20px;">/ Products List </a>
+	</ol>
+</section>
+
+<section class="sec-product-detail bg0 p-t-65 p-b-60">
+	<div class="container">
+		<a href="#" class="logo">
+			<h1 class="mtext-103 cl2" style="font-size:50px;  color:darkgreen;">Restore <span class="mtext-103 cl2" style="font-size:50px;"> Product Details </span></h1>
+		</a>
+		<hr />
+		<div class="row my-5">
+			<div class="col-md-6 col-lg-7 p-b-30">
+				<div class="p-l-25 p-r-30 p-lr-0-lg">
+					<div class="wrap-slick3 flex-sb flex-w">
+
+						<div class="wrap-pic-w pos-relative">
+							<img src="    @Html.DisplayFor(model => model.Image)" alt="IMG-PRODUCT">
+
+
+						</div>
+
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-6 col-lg-5 p-b-30 my-5">
+				<div class="p-r-50 p-t-5 p-lr-0-lg">
+					<h4 class="mtext-103 cl2" style="color:crimson; font-size:30px; ">
+						Bouquet Name
+					</h4>
+					<span class="mtext-104 cl2" style=" font-size:30px;">
+						@Html.DisplayFor(model => model.BouquetName)
+
+					</span>
+					<hr />
+					<h4 class="mtext-103 cl2" style="color:crimson; font-size:30px; ">
+						Price
+					</h4>
+					<span class="mtext-104 cl2" style=" font-size:30px;">
+						@Html.DisplayFor(model => model.Price)<span style="color:darkgreen;">
+							PKR
+						</span>
+
+					</span>
+					<hr />
+					<h4 class="mtext-103 cl2" style="color:crimson; font-size:30px; ">
+						Category
+					</h4>
+					<span class="mtext-104 cl2" style=" font-size:30px;">
+						@Html.DisplayFor(model => model.CategoryId)
+					</span>
+
+					</span>
+					<hr />
+
+
+
+
+					<!--  -->
+
+
+
+
+
+					<h4 class="mtext-103 cl2" style=" font-size:30px; ">
+						Restore
+					</h4>
+					<form asp-action="Restore" asp-controller="Admin">
+						<input type="hidden" asp-for="BouquetId" />
+					<button class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04 my-3" style="background-color:darkgreen;">
+						Restore..!
+					</button>
+					</form>
+				</div>
+
+
+				<!--  -->
+
+			</div>
+		</div>
+		</div>
+			
+
+	<div class="bor10 m-t-50 p-t-43 p-b-40">
+		<!-- Tab01 -->
+		<div class="tab01">
+			<!-- Nav tabs -->
+			<ul class="nav nav-tabs" role="tablist">
+				<li class="nav-item p-b-10">
+					<a class="nav-link active" data-toggle="tab" href="#description" role="tab">Description</a>
+				</li>
+						
+			</ul>
+
+			<!-- Tab panes -->
+			<div class="tab-content p-t-43">
+				<!-- - -->
+						<div class="tab-pane fade show active" id="reviews" role="tabpanel">
+					<div class="how-pos2 p-lr-15-md">
+						<p class="stext-102 cl6">
+							@Html.DisplayFor(model => model.BouquetDescription)
+						</p>
+					</div>
+				</div>
+						
+	</div>
+	</div>
+	</div>
+	
+
+	
+</section>
+

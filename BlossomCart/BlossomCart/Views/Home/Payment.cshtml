@@ -1,0 +1,125 @@
+﻿@model BlossomCart.Models.PaymentTable
+
+@{
+    ViewData["Title"] = "Payment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int userID = Convert.ToInt32(Context.Session.GetInt32("id"));
+    var name = Context.Session.GetString("username");
+    var Order_id = TempData["Order_Id"];
+
+
+}
+<title>Blossom cart | Payment</title>
+
+<style>
+   
+    .tab {
+        margin-top: 5%;
+        width: 60%;
+        justify-content: center;
+    }
+
+    .card {
+        border: none;
+    }
+
+    label {
+        font-size: 120%;
+    }
+
+    .format {
+        border: none !important;
+        border-bottom: 1px solid crimson !important;
+        outline: none !important;
+        width: 100%;
+color:black;
+font-weight:semibold;
+        
+    }
+
+    .ahmed {
+        text-transform: uppercase;
+        letter-spacing: 0.2ch;
+        font-family: 'Open Sans', 'Helvetica Neue';
+    }
+
+    .idrees {
+        font-family: 'Open Sans', 'Helvetica Neue';
+    }
+    </style>
+
+
+<!-- Checkout Page Start -->
+<div class="container-fluid py-5 mt-5 ">
+    <div class="container w-50 my-5 " >
+        <h1 class="mtext-103 cl1 my-4 text-center" style="font-size:70px;">Payment Details </h1>
+
+        <form asp-action="Payment" class="  p-5" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+            <div class="row p-1">
+
+            <div class="col-xl-12 col-lg-14 ">
+                    <h5 class="mtext-103 my-3 " style=" text-transform:uppercase; color:crimson; font-size:50px;">
+                        Card Details </h1>
+                        <input asp-for="UserId" type="hidden" class="form-control" value="@userID" />
+                        <input asp-for="OrderId" class="form-control " type="hidden" value="@Order_id" />
+
+                        <div class="form-item">
+                            <label class="form-label py-2 text-secondary"> Holder Name <sup class="text-primary">*</sup></label> <br>
+                            <input asp-for="HolderName"  value="@name" class="format py-4 " type="text"  placeholder="Holder Name ...!" required>
+                            <span asp-validation-for="HolderName" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="form-item">
+                            <label class="form-label py-2 text-secondary"> Card Number <sup class="text-primary">*</sup></label> <br>
+                            <input asp-for="CardNumber"  class="format py-4  " type="text" name="Card_Number" placeholder="Card Number ...!" required minlength=16 maxlength=16>
+                            <span asp-validation-for="CardNumber" class="text-danger"></span>
+                        </div>
+                       
+                        <div class="form-item">
+                            <label class="form-label py-2 text-secondary"> Card Verification Code <sup class="text-primary">*</sup></label> <br>
+                            <input asp-for="Cvc" class="format py-4 " type="text" name="CVC" placeholder="XXXX" required minlength=4 maxlength=4>
+                            <span asp-validation-for="Cvc" class="text-danger"></span>
+
+                        </div>
+                        <div class="p-t-40">
+                        <div class="flex-c-m flex-w p-b-18">
+                            <a href="#" class="m-all-1">
+                                <img src="/Index/images/icons/icon-pay-01.png" alt="ICON-PAY">
+                            </a>
+
+                            <a href="#" class="m-all-1">
+                                <img src="/Index/images/icons/icon-pay-02.png" alt="ICON-PAY">
+                            </a>
+
+                            <a href="#" class="m-all-1">
+                                <img src="/Index/images/icons/icon-pay-03.png" alt="ICON-PAY">
+                            </a>
+
+                            <a href="#" class="m-all-1">
+                                <img src="/Index/images/icons/icon-pay-04.png" alt="ICON-PAY">
+                            </a>
+
+                            <a href="#" class="m-all-1">
+                                <img src="/Index/images/icons/icon-pay-05.png" alt="ICON-PAY">
+                            </a>
+                        </div>
+                        </div>
+                        <div class="row g-4 text-center align-items-center justify-content-center pt-4">
+                            <button type="submit" name="senddetails" class="btn border-secondary py-3 px-4 text-uppercase w-100 flex-c-m stext-101 bg1  bor14 hov-btn1">Pay Now</button>
+                        </div>
+                </div>
+
+               
+
+               
+
+            </div>
+        </form>
+    </div>
+</div>
+<!-- Checkout Page End -->
+

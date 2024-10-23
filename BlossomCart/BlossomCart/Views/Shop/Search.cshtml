@@ -1,0 +1,298 @@
+﻿@model IEnumerable<BlossomCart.Models.Bouquet>
+
+@{
+	ViewBag.Title = "Product Search";
+	var cat = ViewBag.cat as IEnumerable<BlossomCart.Models.Category>;
+
+}
+
+<title>Blossomcart | Search</title>
+
+<section class="bg0 p-t-62 p-b-60 my-5">
+
+	<div class="container">
+		<a href="#" class="logo">
+			<h1 class="mtext-103 cl2" style="font-size:50px;">New <span style="color:crimson;"> Bouquets</span></h1>
+		</a>
+		<div class="row">
+
+
+			<div class="col-md-4 col-lg-3 p-b-80">
+				<div class="side-menu">
+
+
+					<div class="p-t-55">
+						<h4 class="mtext-112 cl2 p-b-33">
+							Categories
+						</h4>
+
+						<ul>
+							<li class="bor18">
+								<a asp-action="Categories" asp-route-id=null asp-controller="Shop" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
+									All Products
+								</a>
+
+							</li>
+							@if (cat != null)
+							{
+								@foreach (var item in cat)
+								{
+									<li class="bor18">
+										<a asp-action="Categories" asp-route-id="@item.CategoryId" asp-controller="Shop" class="dis-block stext-115 cl6 hov-cl1 trans-04 p-tb-8 p-lr-4">
+											@item.CategoryName
+										</a>
+									</li>
+								}
+							}
+
+
+
+						</ul>
+					</div>
+
+					<div class="p-t-65">
+						<h4 class="mtext-112 cl2 p-b-33">
+							Featured Products
+						</h4>
+
+						<ul>
+
+							<partial name="FeatureProducts1" />
+
+
+
+						</ul>
+					</div>
+
+					<div class="p-t-55">
+						<h4 class="mtext-112 cl2 p-b-20">
+							Archive
+						</h4>
+
+						<ul>
+							<li class="p-b-7">
+								<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
+									<span>
+										July 2018
+									</span>
+
+									<span>
+										(9)
+									</span>
+								</a>
+							</li>
+
+							<li class="p-b-7">
+								<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
+									<span>
+										June 2018
+									</span>
+
+									<span>
+										(39)
+									</span>
+								</a>
+							</li>
+
+							<li class="p-b-7">
+								<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
+									<span>
+										May 2018
+									</span>
+
+									<span>
+										(29)
+									</span>
+								</a>
+							</li>
+
+							<li class="p-b-7">
+								<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
+									<span>
+										April  2018
+									</span>
+
+									<span>
+										(35)
+									</span>
+								</a>
+							</li>
+
+							<li class="p-b-7">
+								<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
+									<span>
+										March 2018
+									</span>
+
+									<span>
+										(22)
+									</span>
+								</a>
+							</li>
+
+							<li class="p-b-7">
+								<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
+									<span>
+										February 2018
+									</span>
+
+									<span>
+										(32)
+									</span>
+								</a>
+							</li>
+
+							<li class="p-b-7">
+								<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
+									<span>
+										January 2018
+									</span>
+
+									<span>
+										(21)
+									</span>
+								</a>
+							</li>
+
+							<li class="p-b-7">
+								<a href="#" class="flex-w flex-sb-m stext-115 cl6 hov-cl1 trans-04 p-tb-2">
+									<span>
+										December 2017
+									</span>
+
+									<span>
+										(26)
+									</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+
+					<div class="p-t-50">
+						<h4 class="mtext-112 cl2 p-b-27">
+							Tags
+						</h4>
+
+						<div class="flex-w m-r--5">
+							<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
+								Fashion
+							</a>
+
+							<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
+								Lifestyle
+							</a>
+
+							<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
+								Denim
+							</a>
+
+							<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
+								Streetstyle
+							</a>
+
+							<a href="#" class="flex-c-m stext-107 cl6 size-301 bor7 p-lr-15 hov-tag1 trans-04 m-r-5 m-b-5">
+								Crafts
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Product -->
+			<div class="col-md-18 col-lg-9 bg0 m-t-23 p-b-140">
+
+				<div class="w-50">
+
+
+					<div class="flex-c-m stext-106 cl6 size-105 bor4 pointer hov-btn3 trans-04 m-tb-4 js-show-search">
+						<i class="icon-search cl2 m-r-6 fs-15 trans-04 zmdi zmdi-search"></i>
+						<i class="icon-close-search cl2 m-r-6 fs-15 trans-04 zmdi zmdi-close dis-none"></i>
+						Search
+					</div>
+				</div>
+
+				<!-- Search product -->
+				<form action="@Url.Action("Search", "Shop")" method="get">
+
+
+					<div class="dis-none panel-search w-full p-t-10 p-b-15">
+						<div class="bor8 dis-flex p-l-15">
+							<button class="size-113 flex-c-m fs-16 cl2 hov-cl1 trans-04" type="submit">
+								<i class="zmdi zmdi-search"></i>
+							</button>
+
+							<input class="mtext-107 cl2 size-114 plh2 p-r-15" type="text" name="query" placeholder="Search">
+						</div>
+					</div>
+				</form>
+
+
+
+
+				<div class="row isotope-grid ">
+					@if (Model != null && Model.Any())
+					{
+						@foreach (var bouquet in Model)
+						{
+							if (bouquet.Status == 1)
+							{
+								<div class="col-sm-6 col-md-4 col-lg-5 p-b-35 isotope-item women">
+									<!-- Block2 -->
+									<div class="block2">
+										<div class="block2-pic hov-img0">
+											<img src="@bouquet.Image" alt="IMG-PRODUCT">
+
+											<a asp-action="Details" asp-route-id="@bouquet.BouquetId" asp-controller="Home" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
+												Quick View
+											</a>
+										</div>
+
+										<div class="block2-txt flex-w flex-t p-t-14">
+											<div class="block2-txt-child1 flex-col-l ">
+												<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
+													@bouquet.BouquetName
+												</a>
+
+												<span class="stext-105 cl3">
+													@bouquet.Price PKR
+												</span>
+											</div>
+
+											<div class="block2-txt-child2 flex-r p-t-3">
+												<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
+													<img class="icon-heart1 dis-block trans-04" src="~/Index/images/icons/icon-heart-01.png" alt="ICON">
+													<img class="icon-heart2 dis-block trans-04 ab-t-l" src="~/Index/images/icons/icon-heart-02.png" alt="ICON">
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							}
+						}
+					}
+					else if (Model == null)
+					{
+						<p>Please select a category to view products.</p>
+					}
+					else
+					{
+						<div class="flex-c-m flex-w w-full p-t-45 my-5">
+							<h1>No products available for this Search.</h1>
+							<a asp-action="Categories" asp-route-id=null class=" my-5 w-50 flex-c-m flex-w w-full stext-101 cl5 size-103 bg2 bor1 hov-btn1 p-lr-15 trans-04">
+								All Products
+							</a>
+						</div>
+
+					}
+
+
+
+
+				</div>
+
+				<!-- Load more -->
+
+			</div>
+
+		</div>
+	</div>
+</section>

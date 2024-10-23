@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|c:\\users\\hp\\source\\repos\\blossomcarts\\blossomcart\\blossomcart\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|solutionrelative:blossomcart\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|c:\\users\\hp\\source\\repos\\blossomcarts\\blossomcart\\blossomcart\\views\\auth\\forgot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|solutionrelative:blossomcart\\views\\auth\\forgot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|c:\\users\\hp\\source\\repos\\blossomcarts\\blossomcart\\blossomcart\\views\\home\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|solutionrelative:blossomcart\\views\\home\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|c:\\users\\hp\\source\\repos\\blossomcarts\\blossomcart\\blossomcart\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|solutionrelative:blossomcart\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|c:\\users\\hp\\source\\repos\\blossomcarts\\blossomcart\\blossomcart\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|solutionrelative:blossomcart\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|c:\\users\\hp\\source\\repos\\blossomcarts\\blossomcart\\blossomcart\\views\\admin\\shippedorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|solutionrelative:blossomcart\\views\\admin\\shippedorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|c:\\users\\hp\\source\\repos\\blossomcarts\\blossomcart\\blossomcart\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|solutionrelative:blossomcart\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|c:\\users\\hp\\source\\repos\\blossomcarts\\blossomcart\\blossomcart\\views\\home\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|solutionrelative:blossomcart\\views\\home\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/HP_PC_SQLEXPRESS/BlossomCarts/True/SqlTable/dbo.Feedback.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|c:\\users\\hp\\source\\repos\\blossomcarts\\blossomcart\\blossomcart\\views\\auth\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|solutionrelative:blossomcart\\views\\auth\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|c:\\users\\hp\\source\\repos\\blossomcarts\\blossomcart\\blossomcart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|solutionrelative:blossomcart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|c:\\users\\hp\\source\\repos\\blossomcarts\\blossomcart\\blossomcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|solutionrelative:blossomcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|c:\\users\\hp\\source\\repos\\blossomcarts\\blossomcart\\blossomcart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D9230DF-4623-4214-98DC-6E39FCD9A85F}|BlossomCart\\BlossomCart.csproj|solutionrelative:blossomcart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddTocart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Home\\AddTocart.cshtml",
+              "RelativeDocumentMoniker": "BlossomCart\\Views\\Home\\AddTocart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Home\\AddTocart.cshtml",
+              "RelativeToolTip": "BlossomCart\\Views\\Home\\AddTocart.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T14:35:46.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShippedOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Admin\\ShippedOrders.cshtml",
+              "RelativeDocumentMoniker": "BlossomCart\\Views\\Admin\\ShippedOrders.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Admin\\ShippedOrders.cshtml",
+              "RelativeToolTip": "BlossomCart\\Views\\Admin\\ShippedOrders.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T15:33:08.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Home\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "BlossomCart\\Views\\Home\\Feedback.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Home\\Feedback.cshtml",
+              "RelativeToolTip": "BlossomCart\\Views\\Home\\Feedback.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T15:25:07.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Forgot.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Auth\\Forgot.cshtml",
+              "RelativeDocumentMoniker": "BlossomCart\\Views\\Auth\\Forgot.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Auth\\Forgot.cshtml",
+              "RelativeToolTip": "BlossomCart\\Views\\Auth\\Forgot.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T14:49:01.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BlossomCart\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BlossomCart\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAmwMkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:25:32.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "BlossomCart\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "BlossomCart\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAowL4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T14:36:20.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BlossomCart\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BlossomCart\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:18:52.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Feedback [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/HP_PC_SQLEXPRESS/BlossomCarts/True/SqlTable/dbo.Feedback.sql",
+              "ToolTip": "dbo.Feedback [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T15:27:14.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Admin\\Orders.cshtml",
+              "RelativeDocumentMoniker": "BlossomCart\\Views\\Admin\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Admin\\Orders.cshtml",
+              "RelativeToolTip": "BlossomCart\\Views\\Admin\\Orders.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T15:31:42.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Auth\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "BlossomCart\\Views\\Auth\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Views\\Auth\\ChangePassword.cshtml",
+              "RelativeToolTip": "BlossomCart\\Views\\Auth\\ChangePassword.cshtml",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAMIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T14:45:13.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlossomCart\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlossomCart\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACoBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:25:10.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlossomCart\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlossomCart\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T14:24:29.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Program.cs",
+              "RelativeDocumentMoniker": "BlossomCart\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BlossomCarts\\BlossomCart\\BlossomCart\\Program.cs",
+              "RelativeToolTip": "BlossomCart\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:23:40.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

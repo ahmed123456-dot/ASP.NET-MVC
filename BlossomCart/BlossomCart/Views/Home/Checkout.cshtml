@@ -1,0 +1,192 @@
+﻿@model BlossomCart.Models.Order
+
+@{
+    ViewData["Title"] = "Checkout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var Data = ViewBag.Cartdata as IEnumerable<BlossomCart.Models.Cart>;
+    int userID = Convert.ToInt32(Context.Session.GetInt32("id"));
+
+    var name = Context.Session.GetString("username");
+    decimal total = 0;
+    decimal Discount = 5;
+    decimal nettotal = 0;
+    decimal grandtotal = 0;
+    var Orderinsert = TempData["Orderinsert"];
+
+}<title>Blossom cart | Checkout</title>
+
+
+<style>
+    .tab {
+        margin-top: 5%;
+        width: 80%;
+        justify-content: center;
+    }
+
+    .card {
+        border: none;
+    }
+
+    label {
+        font-size: 120%;
+    }
+
+    .format {
+        border: none !important;
+        border-bottom: 1px solid crimson !important;
+        outline: none !important;
+        width: 83%;
+    }
+
+    .ahmed {
+        text-transform: uppercase;
+        letter-spacing: 0.2ch;
+        font-family: 'Open Sans', 'Helvetica Neue';
+    }
+
+    </style>
+
+<!-- Checkout Page Start -->
+<div class="container-fluid py-5 mt-5">
+     <div class="container ">
+        <h1 class="mtext-103 cl2 my-5" style="font-size:50px; color:crimson;">Place Your <span class="mtext-103 cl2 " style="font-size:50px;"> Order</span></h1>
+
+
+        <form asp-action="Checkout">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+            <div class="row g-5">
+
+                <div class="col-md-12 col-lg-6 col-xl-7">
+                    
+                    <h1 class="mtext-102 cl2 md-4 my-3" style="font-size:40px">Billing Details</h1>
+                    <span class="mtext-104" style="color:Darkgreen;">@Orderinsert</span>
+
+
+                    
+                        <input asp-for="UserId" type="hidden" class="form-control" value="@userID" />
+                   
+                    <div class="form-item">
+                        <label class="form-label py-2 mtext-102 cl1 ">Customer Name  <sup style="color:crimson;">*</sup></label>
+                        <input  class="format py-4 " value="@name" placeholder="Your Name...!" />
+                        </div>
+                    <div class="form-item">
+                        <label asp-for="Address" class="form-label py-2 mtext-102 cl1 ">Address <sup style="color:crimson;">*</sup></label>
+                        <input asp-for="Address" class="format py-4 " required  placeholder="Your Current Address...!" />
+                        <span asp-validation-for="Address" class="text-danger"></span>
+                    </div>
+                    <div class="form-item" style="width:83%;">
+                        <label asp-for="PaymentType" class="form-label py-2 mtext-102 cl1 ">Payment Type <sup style="color:crimson;">*</sup></label>
+                        
+                        <select asp-for="PaymentType"  class="format py-4 w-100  boxed" required>
+                                <option value="" selected disabled class="col-lg-2 col-md-4 col-sm-6 text-dark">Select Payment Type</option>
+                            <option class="col-lg-2 col-md-4 col-sm-6 text-dark" value="CreditCard">Credit Card</option>
+                            <option class="col-lg-2 col-md-4 col-sm-6 text-dark" value="Cod">Cash on Delivery</option>
+
+                        </select>
+                        
+                        <span asp-validation-for="PaymentType" class="text-danger"></span>
+                    </div>
+                    
+                </div>
+                <div class="col-md-12 col-lg-6 col-xl-5">
+                    <h1 class="mtext-102 cl2 md-4 my-3" style="font-size:40px">Products</h1>
+
+                    <div class="table-responsive">
+                       
+                        <table class="table">
+                            <thead>
+                                <tr class=" mtext-102 cl1">
+                                    <th>Products</th>
+                                    <th></th>
+
+                                    <th scope="col">Price</th>
+                                    <th scope="col">Quantity</th>
+                                    <th scope="col">Total</th>
+
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                
+                                 @if(Data!= null){
+                                       foreach(var item in Data){
+                                           if(item.UserId==userID){
+                                            total += item.TotalPrice;
+                                            <tr class="table_row  my-5">
+                                                <td class="column-1">
+                                                    <div class="how-itemcart1">
+                                                        <img src=" @Html.DisplayFor(modelItem => item.Bouquet.Image)" alt="IMG">
+                                                    </div>
+                                                </td>
+                                                <td class="column-2"> @Html.DisplayFor(modelItem => item.Bouquet.BouquetName)</td>
+                                                <td class="column-3"> @Html.DisplayFor(modelItem => item.Price)</td>
+                                                <td class="column-4">
+                                                    @Html.DisplayFor(modelItem => item.Qty)
+                                                </td>
+                                                <td class="column-5"> @Html.DisplayFor(modelItem => item.TotalPrice)</td>
+                                                
+
+                                            </tr>
+                                           }
+                                           }
+                                           }
+                                @{
+                                    nettotal = total * Discount / 100;
+                                    grandtotal = total - nettotal;
+                                      }
+
+
+
+                                <tr style="margin-left:-10px;">
+                                    <th scope="row">
+                                    </th>
+                                    <td class=""></td>
+                                    <td class=""></td>
+
+                                    <td class="py-5">
+                                        <p class="mb-0 text-dark ">Total</p>
+                                        <hr/>
+                                        <p class="mb-0 text-dark ">Discount</p>
+                                        <hr />
+                                        <p class="mtext-103 cl2" style="color:crimson;">Total</p>
+                                    </td>
+                                    <td class="py-5">
+                                        <div class="border-bottom border-top">
+                                            <p class="mb-0 text-dark">@total</p>
+
+                                        </div>
+                                        <hr/>
+                                        <div class="border-bottom border-top">
+                                            <p class="mb-0 text-dark">-5%</p>
+
+                                        </div>
+                                        <hr/>
+                                        <div class="border-bottom border-top">
+                                            <p class="mtext-103 cl2" style="color:crimson;">@grandtotal</p>
+                                        </div>
+                                    </td>
+                                   
+                                </tr>
+                                
+                               
+                            </tbody>
+                          
+
+
+                        </table>
+                    </div>
+
+<hr/>
+                    <input asp-for="Price" type="hidden" class="form-control" value="@grandtotal" />
+
+                    <div class="row g-4 text-center align-items-center justify-content-center pt-4">
+                        <button type="submit" class="flex-c-m stext-101 cl0 size-116 bg3 bor14 hov-btn3 p-lr-15 trans-04 pointer py-3 px-4 text-uppercase w-100 ">Place Order</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<!-- Checkout Page End -->
